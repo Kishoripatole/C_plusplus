@@ -22,7 +22,7 @@ class Dog:public Cat{
 
 int main()
 {
-    Dog d;
-    d.show();
+    Dog d1;
+    d1.show();
 
 }
